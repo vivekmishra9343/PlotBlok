@@ -88,6 +88,17 @@ Commit changes (git commit -m "Added feature").
 Push to your branch (git push origin feature-name).
 Open a Pull Request.
 
+## Color palette 
+- ![#fff5db](https://placehold.co/15x15/f03c15/f03c15.png) `#fff5db`
+- ![#ffffff](https://placehold.co/15x15/c5f015/c5f015.png) `#ffffff`
+- ![#ffe9b3](https://placehold.co/15x15/1589F0/1589F0.png) `#ffe9b3`
+- ![#fcf5f3](https://placehold.co/15x15/1589F0/1589F0.png) `#fcf5f3`
+- ![#fece51](https://placehold.co/15x15/1589F0/1589F0.png) `#fece51`
+- ![#ff0000](https://placehold.co/15x15/1589F0/1589F0.png) `#ff0000`
+- ![#ff0000](https://placehold.co/15x15/1589F0/1589F0.png) `#ff0000`
+- ![#999](https://placehold.co/15x15/1589F0/1589F0.png) `##999`
+- ![#000000](https://placehold.co/15x15/1589F0/1589F0.png) `#000000`
+- ![#fece51](https://placehold.co/15x15/1589F0/1589F0.png) `#fece51`
 ## 📝 License
 None
 
