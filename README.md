@@ -89,6 +89,7 @@ Push to your branch (git push origin feature-name).
 Open a Pull Request.
 
 ## Color palette 
+don't worry these colors aren't the same as HexCodes
 - ![#fff5db](https://placehold.co/15x15/f03c15/f03c15.png) `#fff5db`
 - ![#ffffff](https://placehold.co/15x15/c5f015/c5f015.png) `#ffffff`
 - ![#ffe9b3](https://placehold.co/15x15/1589F0/1589F0.png) `#ffe9b3`
