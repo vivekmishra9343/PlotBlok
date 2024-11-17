@@ -30,7 +30,7 @@ Welcome to the **Decentralized Real-Estate Tokenization System**! This platform 
  ├── 📁 test               # Smart contract testing scripts
  ├── 📁 scripts            # Deployment and interaction scripts
  └── 📄 README.md          # Project documentation
-
+```
 ## Prerequisites
 
 Ensure you have the following installed:
