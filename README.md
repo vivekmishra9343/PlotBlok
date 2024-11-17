@@ -52,7 +52,7 @@ Smart Contract Deployment
 Configure your environment:
 Create a .env file:
 
-🔧 Usage
+## 🔧 Usage
 Start the Frontend:
 
 bash
@@ -60,7 +60,7 @@ Copy code
 npm run start
 Access the application at http://localhost:3000.
 
-Connect Wallet:
+## Connect Wallet:
 
 Open the app and connect using MetaMask.
 List or Invest in Properties:
@@ -76,21 +76,22 @@ npx hardhat test
 📚 Documentation
 Detailed project documentation can be found here.
 
-🛡️ Security
+## 🛡️ Security
 This project adheres to best practices in smart contract development. However, always conduct your own audits before deployment.
 
-🤝 Contributing
+## 🤝 Contributing
 We welcome contributions! Please follow these steps:
 
-Fork the repository.
+## Fork the repository.
 Create a feature branch (git checkout -b feature-name).
 Commit changes (git commit -m "Added feature").
 Push to your branch (git push origin feature-name).
 Open a Pull Request.
-📝 License
+
+## 📝 License
 None
 
-📬 Contact
+## 📬 Contact
 For inquiries or suggestions:
 
 Email: ayushtomarrudra@gmail.com
